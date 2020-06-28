@@ -1,10 +1,2 @@
-*.json
-*.pyc
-
-db/
-config/
-cogs/Test.py
-cogs/Economy.py
-cogs/Ytt.py
 
 requirements.txt
